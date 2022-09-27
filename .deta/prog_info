@@ -1,0 +1,1 @@
+{"id":"545d92d2-592d-4ab5-9f44-7d750bcde866","space":33481,"runtime":"python3.9","name":"firebase-post","path":"uv7cti","project":"b0zuhvvt","account":"144798365827","region":"us-west-1","deps":["fastapi==0.85.0","uvicorn==0.18.3","requests==2.28.1"],"envs":null,"public":true,"log_level":"off","cron":""}
